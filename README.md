@@ -1,6 +1,5 @@
 # cube3d-final
 Cube3d final
-For Player Pos : Use in the maps => E
 For the sprite : use the 2
 For the border : Use the 1
 the maps should be in final with 1.
